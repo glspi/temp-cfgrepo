@@ -10,7 +10,7 @@ transceiver qsfp default-mode 4x10G
 !
 service routing protocols model multi-agent
 !
-hostname last-today-spine1
+hostname jenkins-loaded-spine1
 !
 spanning-tree mode mstp
 !
