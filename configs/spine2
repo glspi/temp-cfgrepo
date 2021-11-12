@@ -10,7 +10,7 @@ transceiver qsfp default-mode 4x10G
 !
 service routing protocols model multi-agent
 !
-hostname yay-jenkins-spine2
+hostname elvis-spine2
 !
 spanning-tree mode mstp
 !
