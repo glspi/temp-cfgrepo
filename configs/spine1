@@ -10,7 +10,7 @@ transceiver qsfp default-mode 4x10G
 !
 service routing protocols model multi-agent
 !
-hostname rg-spine11
+hostname bartik
 !
 spanning-tree mode mstp
 !
